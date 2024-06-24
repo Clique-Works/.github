@@ -1,5 +1,3 @@
-![logo](../Clique-Works-Banner-Text.png)
-
 A group of two high-school students interested in programming.
 
 Shout-out to our mentor Mr. Henryk
